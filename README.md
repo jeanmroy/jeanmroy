@@ -7,8 +7,8 @@
 ## 💻 About Me
 Passionate Fullstack Developer, specializing in backend development and crafting robust REST APIs. 
 
-- 🔭 I'm currently working on [Parking Manager]
-- 🌱 I'm currently learning [Spring frameworks]
+- 🔭 I'm currently working on [Parking Manager], [Portfolio], various projects
+- 🌱 I'm currently learning [Spring frameworks], [Node.js], [React], [Express.js], [Dockers]
 - 👯 I'm looking to collaborate on open source projects
 
 ## 🛠️ Technologies & Tools
